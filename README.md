@@ -1,7 +1,4 @@
 
-README for "Anomaly Detection with Autoencoders"
----
-
 Overview:
 
 In this project, I delved into the fascinating realm of autoencoders and their application in anomaly detection. Leveraging a mystery dataset with multiple explanatory variables and a response variable, I embarked on the journey to pinpoint anomalous data points.
